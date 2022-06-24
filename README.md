@@ -8,6 +8,8 @@
   C# Programmer - Asp.Net Core Developer(Backend)👨‍💻
 </p>
   
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AminMKN?cardType=github&theme=onedark&Text=DDDDDD&Title=DDD225&Border=46DDC0&Ring=56CFFD)](https://git.io/awesome-stats-card)
+  
 <hr/>
   
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
