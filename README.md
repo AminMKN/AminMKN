@@ -10,6 +10,9 @@
   C# Programmer - Asp.Net Core Developer(Backend)👨‍💻
 </p>
   
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC">    <img  alt="AminMKN's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AminMKN?cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC" />  </a>
+  
+  
   <img src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" style="width: 50px; display: block; opacity: 1;"/>
   
   <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="width: 50px; display: block; opacity: 1;"/>
@@ -50,10 +53,6 @@
 </p>
   
 </div>
-
-
-
-
 
 <!--
 **AminMKN/AminMKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
