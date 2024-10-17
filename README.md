@@ -9,7 +9,7 @@
 </h1>
   
 <p>
-  C# Programmer - Asp.Net Core Developer(Backend)👨‍💻
+  C# Programmer - Asp.Net Core Developer👨‍💻
 </p>
   
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC">    <img  alt="AminMKN's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AminMKN?cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC" />  </a>
